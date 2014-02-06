@@ -44,3 +44,12 @@ function anagrammedName(name) {
 		return name;
 	}
 }
+
+/*
+$(".clickity").click(listenerFunction(e));
+
+function listenerFunction(e) {
+	preventDefault();
+	$(.this).text()
+}
+*/
